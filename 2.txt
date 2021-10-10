@@ -1,0 +1,25 @@
+Depois de todo o jogo estar preparado está pronto para começar.
+Cada jogador, na sua vez de jogar, seguirá o seguinte procedimento:
+
+	1.	O jogador começa por ver o seu tabuleiro completo, isto é, com todos os seus barcos, e é informado da posição em 
+	que o seu adversário disparou e se acertou ou não num barco.  Se em determinada posição estiver um ‘0’ significa está, 
+	se estiver um ‘1’ significa que naquela posição existe um barco, mas que o adversário ainda não disparou, se tiver um 
+	‘2’ então o adversário acertou num barco e por fim se estiver um ‘3’ o adversário disparou para lá, mas sem sucesso, 
+	pois aquela posição não continha nenhum barco;
+
+
+	2.	O jogador vê o tabuleiro ás escuras, isto é, com apenas os tiros que disparou e de seguida dispara um tiro, 
+	indicando as coordenadas do alvo através do número da linha e do número da coluna que definem uma posição. Sendo que 
+	não pode disparar numa posição que já disparou anteriormente;
+
+
+	3.	O jogador será informado do que tinha no local onde disparou e verá o tabuleiro ás escuras atualizado, e se na 
+	posição que disparou estiver um ‘1’ significa que acertou numa posição que não tinha nenhum barco, mas se na posição 
+	que disparou estiver um ‘2’ significa que acertou num barco inimigo. 
+	Note que os 0’s são posições que ainda não sofreram um disparo;
+
+
+	4.	Um barco só é considerado afundado quando todas as posições ocupadas por esse barco forem atingidas. Quando isto 
+	acontecer o jogador receberá informação de quantos barcos já afundou.
+
+O jogo termina quando um dos jogadores conseguir afundar todos os barcos do oponente e desta forma saí vencedor. 

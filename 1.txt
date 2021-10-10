@@ -1,0 +1,10 @@
+	Batalha naval é um jogo de tabuleiro de dois jogadores, onde o objetivo do jogo é afundar todos os barcos do adversário.
+	O jogo é jogado em dois tabuleiros para cada jogador - um que representa a disposição dos barcos do jogador, e outro que
+representa o do oponente. 
+	Antes de começar a jogar, os jogadores têm que personalizar o seu jogo. Para isso começam por definir as dimensões do 
+tabuleiro, o número de barcos que cada jogador terá, depois definem quantos barcos de cada tipo terão e por fim cada 
+jogador posiciona os seus barcos no seu tabuleiro de forma a que não fiquem sobrepostos e com a rotação pretendida. 
+	Todas estas predefinições podem ser feitas pelos jogadores ou aleatoriamente pelo computador. 
+	
+Os barcos serão dos seguintes tipos:
+
